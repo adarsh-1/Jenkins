@@ -1,1 +1,1 @@
-console.lo("Hello Jenkins......!!! v4")
+console.log("Hello Jenkins......!!! v4")
